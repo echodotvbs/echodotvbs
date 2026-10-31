@@ -1,0 +1,185 @@
+{
+ "key": "36acce73",
+ "stars": 0,
+ "contributions": 43,
+ "repos": 4,
+ "followers": 1,
+ "languages": [
+  [
+   "CSS",
+   140650
+  ],
+  [
+   "Svelte",
+   12094
+  ],
+  [
+   "TypeScript",
+   9405
+  ],
+  [
+   "JavaScript",
+   1180
+  ],
+  [
+   "HTML",
+   666
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 2,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 6,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 2,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 6,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 23,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 24,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 5,
+    "day": 25,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 26,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 27,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 28,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 29,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 30,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 31,
+    "today": true
+   }
+  ]
+ ],
+ "streak": {
+  "current": 2,
+  "longest": 7
+ },
+ "pins": [],
+ "all": [
+  {
+   "name": "echodotvbs",
+   "url": "https://github.com/echodotvbs/echodotvbs",
+   "text": "My GitHub profile",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "echos-QOL-CSS-Configurator",
+   "url": "https://github.com/echodotvbs/echos-QOL-CSS-Configurator",
+   "text": "website to customize my discord qol overhaul css snippet more easily",
+   "fork": false,
+   "stars": 0,
+   "language": "CSS",
+   "topics": []
+  },
+  {
+   "name": "Remicord",
+   "url": "https://github.com/echodotvbs/Remicord",
+   "text": "literally just equicord with my userplugins",
+   "fork": true,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "echos-css-snippets",
+   "url": "https://github.com/echodotvbs/echos-css-snippets",
+   "text": "random css snippets i use for equicord",
+   "fork": false,
+   "stars": 0,
+   "language": "CSS",
+   "topics": []
+  }
+ ]
+}
