@@ -1,0 +1,164 @@
+{
+  "version": 1,
+  "login": "echodotvbs",
+  "seed": "#BC959D",
+  "seedFromAvatar": true,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": false,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "stack",
+    "buttons"
+  ],
+  "hidden": [
+    "stack",
+    "buttons"
+  ],
+  "hero": {
+    "greeting": "",
+    "name": "echo",
+    "subtitle": "idk i just exist",
+    "typing": true,
+    "avatarShape": "pill",
+    "chips": [
+      {
+        "icon": "home",
+        "label": "Remielle's mattress"
+      },
+      {
+        "icon": "favorite",
+        "label": "Remielle <3"
+      },
+      {
+        "icon": "accessibility",
+        "label": "hi lol"
+      }
+    ]
+  },
+  "about": {
+    "title": "hi lol",
+    "items": [
+      {
+        "icon": "mood_heart",
+        "label": "i love Remielle"
+      },
+      {
+        "icon": "progress_activity",
+        "label": "i know a little css and html (i hope)..."
+      },
+      {
+        "icon": "favorite",
+        "label": "did i mention i love Remielle??"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:typescript",
+            "label": "TypeScript"
+          },
+          {
+            "icon": "brand:react",
+            "label": "React"
+          },
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:figma",
+            "label": "Figma"
+          },
+          {
+            "icon": "brand:githubactions",
+            "label": "GitHub Actions"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": [
+      "Remicord",
+      "echos-css-snippets"
+    ],
+    "overrides": {},
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.com/users/1465212998065852447"
+      },
+      {
+        "icon": "brand:mihoyo",
+        "url": "https://www.hoyolab.com/accountCenter/postList?id=492112542"
+      },
+      {
+        "icon": "brand:youtube",
+        "url": "https://www.youtube.com/@theSUPREMERemiellegooner"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true,
+    "shape": "pill"
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "My website",
+        "url": "https://example.com",
+        "style": "filled"
+      },
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "",
+        "style": "tonal"
+      }
+    ]
+  }
+}
