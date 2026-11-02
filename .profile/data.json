@@ -1,8 +1,8 @@
 {
- "key": "f81f8597",
+ "key": "86a36b58",
  "stars": 0,
- "contributions": 45,
- "repos": 4,
+ "contributions": 46,
+ "repos": 5,
  "followers": 1,
  "languages": [
   [
@@ -108,7 +108,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 1,
     "day": 2,
     "today": true
    },
@@ -120,11 +120,20 @@
   ]
  ],
  "streak": {
-  "current": 3,
+  "current": 4,
   "longest": 7
  },
  "pins": [],
  "all": [
+  {
+   "name": "echos-textreplace-regex",
+   "url": "https://github.com/echodotvbs/echos-textreplace-regex",
+   "text": "textreplace regex rules for discord",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
   {
    "name": "echodotvbs",
    "url": "https://github.com/echodotvbs/echodotvbs",
