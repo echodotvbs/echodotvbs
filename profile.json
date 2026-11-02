@@ -2,10 +2,10 @@
   "version": 1,
   "login": "echodotvbs",
   "seed": "#BC959D",
-  "seedFromAvatar": true,
+  "seedFromAvatar": false,
   "scheme": "tonalSpot",
   "motion": true,
-  "iconFill": false,
+  "iconFill": true,
   "order": [
     "hero",
     "socials",
@@ -23,14 +23,14 @@
   ],
   "hero": {
     "greeting": "",
-    "name": "echo",
+    "name": "",
     "subtitle": "idk i just exist",
     "typing": true,
     "avatarShape": "pill",
     "chips": [
       {
         "icon": "home",
-        "label": "Remielle's mattress"
+        "label": "Remielles mattress"
       },
       {
         "icon": "favorite",
@@ -43,7 +43,7 @@
     ]
   },
   "about": {
-    "title": "hi lol",
+    "title": "hi",
     "items": [
       {
         "icon": "mood_heart",
@@ -51,11 +51,11 @@
       },
       {
         "icon": "progress_activity",
-        "label": "i know a little css and html (i hope)..."
+        "label": "i know a little css, html and regex (hopefully)"
       },
       {
         "icon": "favorite",
-        "label": "did i mention i love Remielle??"
+        "label": "did i mention i love Remielle???"
       }
     ]
   },
@@ -99,11 +99,8 @@
     ]
   },
   "projects": {
-    "source": "manual",
-    "repos": [
-      "Remicord",
-      "echos-css-snippets"
-    ],
+    "source": "pinned",
+    "repos": [],
     "overrides": {},
     "empty": "No description yet.",
     "fork": "Fork"
@@ -142,8 +139,7 @@
     ],
     "variant": "chip",
     "fill": "tonal",
-    "card": true,
-    "shape": "pill"
+    "card": true
   },
   "buttons": {
     "items": [
