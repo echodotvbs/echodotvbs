@@ -1,5 +1,5 @@
 {
- "key": "2d432b0",
+ "key": "29d728c5",
  "stars": 0,
  "contributions": 46,
  "repos": 5,
@@ -123,11 +123,39 @@
   "current": 4,
   "longest": 7
  },
- "pins": [],
+ "pins": [
+  {
+   "name": "Remicord",
+   "url": "https://github.com/echodotvbs/Remicord",
+   "text": "literally just equicord with my userplugins",
+   "fork": true,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "echos-discord-textreplace-regex",
+   "url": "https://github.com/echodotvbs/echos-discord-textreplace-regex",
+   "text": "textreplace regex rules for discord",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "echos-css-snippets",
+   "url": "https://github.com/echodotvbs/echos-css-snippets",
+   "text": "random css snippets i use for equicord",
+   "fork": false,
+   "stars": 0,
+   "language": "CSS",
+   "topics": []
+  }
+ ],
  "all": [
   {
-   "name": "echos-textreplace-regex",
-   "url": "https://github.com/echodotvbs/echos-textreplace-regex",
+   "name": "echos-discord-textreplace-regex",
+   "url": "https://github.com/echodotvbs/echos-discord-textreplace-regex",
    "text": "textreplace regex rules for discord",
    "fork": false,
    "stars": 0,

@@ -6,6 +6,10 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="hi"></picture>
 
+<a href="https://github.com/echodotvbs/Remicord"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-remicord-dark.svg"><img src="assets/project-remicord-light.svg" width="49%" alt="Remicord"></picture></a>&nbsp;<a href="https://github.com/echodotvbs/echos-discord-textreplace-regex"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-echos-discord-textreplace-regex-dark.svg"><img src="assets/project-echos-discord-textreplace-regex-light.svg" width="49%" alt="echos-discord-textreplace-regex"></picture></a>
+
+<a href="https://github.com/echodotvbs/echos-css-snippets"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-echos-css-snippets-dark.svg"><img src="assets/project-echos-css-snippets-light.svg" width="49%" alt="echos-css-snippets"></picture></a>
+
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
